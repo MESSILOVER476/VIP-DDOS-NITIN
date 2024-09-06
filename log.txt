@@ -1,0 +1,6 @@
+UserID: -1002172795127 | Time: 2024-09-04 09:37:18.443548 | Command: IPxKINGYT | Target: 20.235.53.103 | Port: 21289 | Time: 200
+Username: UserID: -1002172795127
+Target: 20.235.53.103
+Port: 21289
+Time: 200
+
