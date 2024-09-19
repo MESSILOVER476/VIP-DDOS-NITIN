@@ -7,9 +7,9 @@ import datetime
 import os
 
 # insert your Telegram bot token here
-bot = telebot.TeleBot('7292819679:AAFGcZxCuou26qPmn9eRy-ZZIoYDOwdIyt0')
+bot = telebot.TeleBot('7460022681:AAEh3uTs_N0oWOD_Vix8Yg2BgzBQlPrWtN0')
 # Admin user IDs
-admin_id = ["6667276878"]
+admin_id = ["6746234095"]
 
 # File to store allowed user IDs
 USER_FILE = "users.txt"
@@ -48,7 +48,7 @@ allowed_user_ids = read_users()
 
 # Function to log command to the file
 def log_command(user_id, target, port, time):
-    admin_id = ["6266215827"]
+    admin_id = ["6746234095"]
     user_info = bot.get_chat(user_id)
     if user_info.username:
         username = "@" + user_info.username
